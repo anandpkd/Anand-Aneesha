@@ -4,7 +4,7 @@ Valimai          FEB/26 Priya
 Bheeshma Parvam  MAR/03 Priya
 Hey Sinamika     MAR/22 INOX Prozone Mall
 ET               MAR/22 KG CINEMAS
-RRR              MAR/26 SPI Brookefields Mall
+RRR              MAR/26 Brookefields Mall
 Twenty One Gms   APR/01 Jayabarath
 Manmadha Leelai  APR/05 KG Cinemas
 Beast            APR/16 Sathya
@@ -15,3 +15,4 @@ CBI 5            MAY/03 PRIYA
 MAKAL            MAY/03 PRIYADARSINI
 JO & JO          MAY/14 Priyadarsini
 Don              MAY/21 Devidurga
+John Luther      MAY/31 Brookfields Mall
